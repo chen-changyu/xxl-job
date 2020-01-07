@@ -1,6 +1,6 @@
 # Table of contents
 
-* [XXL-JOB](README.md)
+* [XXL-JOB轻量级的分布式任务调度平台](README.md)
 * [doc](doc/README.md)
   * [XXL-JOB官方文档](doc/XXL-JOB官方文档.md)
   * [XXL-JOB-English-Documentation](doc/XXL-JOB-English-Documentation.md)

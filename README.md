@@ -1,4 +1,4 @@
-# XXL-JOB
+# XXL-JOB轻量级的分布式任务调度平台
 
 ![](https://www.xuxueli.com/doc/static/xxl-job/images/xxl-logo.jpg)
 
