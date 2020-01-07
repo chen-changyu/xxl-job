@@ -9,23 +9,23 @@
   
  [![](https://travis-ci.org/xuxueli/xxl-job.svg?branch=master)](https://travis-ci.org/xuxueli/xxl-job) [![](https://img.shields.io/badge/docker-passing-brightgreen.svg)](https://hub.docker.com/r/xuxueli/xxl-job-admin/) [![](https://maven-badges.herokuapp.com/maven-central/com.xuxueli/xxl-job/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.xuxueli/xxl-job/) [![](https://img.shields.io/github/release/xuxueli/xxl-job.svg)](https://github.com/xuxueli/xxl-job/releases) [![](https://img.shields.io/badge/license-GPLv3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0.html) [![](https://badges.gitter.im/xuxueli/xxl-job.svg)](https://gitter.im/xuxueli/xxl-job?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) [![](https://img.shields.io/badge/%24-donate-ff69b4.svg?style=flat-square)](https://www.xuxueli.com/page/donate.html)
 
-## Introduction
+## 介绍
 
 XXL-JOB is a lightweight distributed task scheduling framework. It's core design goal is to develop quickly and learn simple, lightweight, and easy to expand. Now, it's already open source, and many companies use it in production environments, real "out-of-the-box".
 
 XXL-JOB是一个轻量级分布式任务调度平台，其核心设计目标是开发迅速、学习简单、轻量级、易扩展。现已开放源代码并接入多家公司线上产品线，开箱即用。
 
-## Documentation
+## 文献资料
 
 * [中文文档](https://www.xuxueli.com/xxl-job/)
 * [English Documentation](https://www.xuxueli.com/xxl-job/en/)
 * [钉钉报警版本链接](https://github.com/hezhiqiang8909/xxl-job)
 
-## Communication
+## 社区交流
 
 * [社区交流](https://www.xuxueli.com/page/community.html)
 
-## Features
+## 特征
 
 * 1、简单：支持通过Web页面对任务进行CRUD操作，操作简单，一分钟上手；
 * 2、动态：支持动态修改任务状态、启动/停止任务，以及终止运行中任务，即时生效；
@@ -63,7 +63,7 @@ XXL-JOB是一个轻量级分布式任务调度平台，其核心设计目标是�
 * 34、用户管理：支持在线管理系统用户，存在管理员、普通用户两种角色；
 * 35、权限控制：执行器维度进行权限控制，管理员拥有全量权限，普通用户需要分配执行器权限后才允许相关操作；
 
-## Development
+## 发展历程
 
 于2015年中，我在github上创建XXL-JOB项目仓库并提交第一个commit，随之进行系统结构设计，UI选型，交互设计……
 
@@ -360,13 +360,13 @@ XXL-JOB是一个轻量级分布式任务调度平台，其核心设计目标是�
 
 欢迎大家的关注和使用，XXL-JOB也将拥抱变化，持续发展。
 
-## Contributing
+## 贡献
 
 Contributions are welcome! Open a pull request to fix a bug, or open an [Issue](https://github.com/xuxueli/xxl-job/issues/) to discuss a new feature or change.
 
 欢迎参与项目贡献！比如提交PR修复一个bug，或者新建 [Issue](https://github.com/xuxueli/xxl-job/issues/) 讨论新特性或者变更。
 
-## Copyright and License
+## 版权和许可
 
 This product is open source and free, and will continue to provide free community technical support. Individual or enterprise users are free to access and use.
 
@@ -375,7 +375,7 @@ This product is open source and free, and will continue to provide free communit
 
 产品开源免费，并且将持续提供免费的社区技术支持。个人或企业内部可自由的接入和使用。
 
-## Donate
+## 捐赠
 
 No matter how much the donation amount is enough to express your thought, thank you very much ：） [To donate](https://www.xuxueli.com/page/donate.html%20)
 
