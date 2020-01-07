@@ -381,3 +381,11 @@ No matter how much the donation amount is enough to express your thought, thank 
 
 无论捐赠金额多少都足够表达您这份心意，非常感谢 ：） [前往捐赠](https://www.xuxueli.com/page/donate.html%20)
 
+## 联系或需要打赏博客作者
+
+No matter how much the donation amount is enough to express your thought, thank you very much ：）
+
+[Go to reward](https://k8sadmin.info/lian-xi-zuo-zhe)
+
+无论捐赠金额多少都足够表达您这份心意，非常感谢 ：）[前往](https://k8sadmin.info/lian-xi-zuo-zhe)
+
